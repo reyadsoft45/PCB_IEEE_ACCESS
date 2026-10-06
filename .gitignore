@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# PyTorch / YOLO model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Large datasets
+datasets/
+dataset/
+VOC_PCB_CLEAN/
+VOC_PCB_LEAKAGE_FREE/
+VOC_PCB_EDGE_ENHANCED/
+
+# YOLO outputs
+runs/
+results/
+
+# Cache
+*.cache
+cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model checkpoints
+checkpoints/
+
+# TensorBoard
+events.out.tfevents.*
+
+# Large archives
+*.zip
+*.rar
+*.7z 
