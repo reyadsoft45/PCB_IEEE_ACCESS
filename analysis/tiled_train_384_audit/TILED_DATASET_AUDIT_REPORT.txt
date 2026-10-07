@@ -1,0 +1,25 @@
+TILED TRAIN 384 DATASET AUDIT
+=============================
+
+Audit status: PASS
+
+Images: 29868
+Labels: 29868
+Positive tiles: 18728
+Background tiles: 11140
+Background percentage: 37.30%
+Objects: 26477
+Unique sources: 7467
+Invalid labels: 0
+Wrong image sizes: 0
+Image-label mismatches: 0
+Duplicate manifest tiles: 0
+
+Class distribution:
+ class_id      class_name  object_count  percentage
+        0    missing_hole          4342   16.399139
+        1      mouse_bite          4435   16.750387
+        2    open_circuit          4157   15.700419
+        3           short          4426   16.716395
+        4            spur          4552   17.192280
+        5 spurious_copper          4565   17.241379
